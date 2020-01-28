@@ -6,6 +6,8 @@ __pycache__/
 # secrets
 code/secrets.py
 
+**/.DS_Store
+
 # C extensions
 *.so
 
