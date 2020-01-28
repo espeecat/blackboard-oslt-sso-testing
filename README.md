@@ -8,6 +8,6 @@ https://github.com/AllTheDucks/oslt-autosignon
 Note that the version tested is not officially released but is available at:  
 https://github.com/AllTheDucks/oslt-autosignon/tree/feature/ultra-support   
 
-I have included the original Word document for reference as this explains how to the autosignon tool is set-up on Blackboard Learn. 
+I have included the original Word document for reference as this explains how the autosignon tool is set-up on Blackboard Learn. 
 
 
